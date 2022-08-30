@@ -1,9 +1,9 @@
-# My Personal Project
+# My Personal Project, August 2021
 
 ## A Disaster Rescue Alert Application
 
 This app was inspired by a deficit I saw in the disaster rescue responses of 
-different areas in the Philippines. Last year, when **Typhoons Ulysses and Rolly (a.k.a. Typhoons 
+different areas in the Philippines. Last 2019, when **Typhoons Ulysses and Rolly (a.k.a. Typhoons 
 Vamco and Goni) hit the Philippines**, posts of people in need of rescue flooded my social media 
 timelines. These posts would contain important information regarding the rescuees such as an exact 
 location, contact number, or whether they were with an injured or elderly person. 
