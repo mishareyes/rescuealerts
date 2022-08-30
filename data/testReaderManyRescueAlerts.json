@@ -1,0 +1,38 @@
+{
+    "alerts": [
+        {
+            "id code": "000",
+            "status": "HELP_OTW",
+            "name": "Jericho Rosales",
+            "contact number": "09172473475",
+            "location": "1432 Kaimito, Barangay Don Juan",
+            "number of people": "5",
+            "is urgent?": true,
+            "name of rescuer": "Kim Jones",
+            "contact number of rescuer": "09159876543"
+        },
+        {
+            "id code": "001",
+            "status": "NEEDS_HELP",
+            "name": "Vice Ganda",
+            "contact number": "09228459012",
+            "location": "ABS-CBN Broadcasting Center",
+            "number of people": "2",
+            "is urgent?": false,
+            "name of rescuer": null,
+            "contact number of rescuer": null
+        },
+        {
+            "id code": "002",
+            "status": "NEEDS_HELP",
+            "name": "Willie Revillame",
+            "contact number": "09151234567",
+            "location": "82 White Plains Avenue",
+            "number of people": "9",
+            "is urgent?": false,
+            "name of rescuer": null,
+            "contact number of rescuer": null
+        }
+    ],
+    "name": "Typhoon Ulysses"
+}

@@ -1,0 +1,25 @@
+{
+    "alerts": [
+        {
+            "id code": "000",
+            "status": "NEEDS_HELP",
+            "name": "A Name",
+            "contact number": "09887654321",
+            "location": "629 Balete Drive",
+            "number of people": "0",
+            "is urgent?": true
+        },
+      {
+        "id code": "000",
+        "status": "HELP_OTW",
+        "name": "Another Name",
+        "contact number": "09887654321",
+        "location": "UP Diliman Campus",
+        "number of people": "-3",
+        "is urgent?": false,
+        "name of rescuer": "Some Rescuer",
+        "contact number of rescuer": "09123456789"
+      }
+    ],
+    "name": "My rescue alerts"
+}
