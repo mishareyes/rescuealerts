@@ -2,7 +2,7 @@
 
 ## A Disaster Rescue Alert Application
 
-[Youtube Video for Graphical User Interface using Java Swing](https://youtu.be/wFQNVDnZ9A0)
+[Youtube Video for Graphical User Interface using Java Swing](https://youtu.be/wFQNVDnZ9A0) |
 [YouTube Video for User Interface on Terminal](https://youtu.be/2Pru6Y3MMGk)
 
 This app was inspired by a deficit I saw in the disaster rescue responses of 
