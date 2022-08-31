@@ -2,6 +2,9 @@
 
 ## A Disaster Rescue Alert Application
 
+[Youtube Video for Graphical User Interface using Java Swing](https://youtu.be/wFQNVDnZ9A0)
+[YouTube Video for User Interface on Terminal](https://youtu.be/2Pru6Y3MMGk)
+
 This app was inspired by a deficit I saw in the disaster rescue responses of 
 different areas in the Philippines. Last 2019, when **Typhoons Ulysses and Rolly (a.k.a. Typhoons 
 Vamco and Goni) hit the Philippines**, posts of people in need of rescue flooded my social media 
