@@ -2,8 +2,12 @@
 
 ## A Disaster Rescue Alert Application
 
-[Youtube Video for Graphical User Interface using Java Swing](https://youtu.be/wFQNVDnZ9A0) |
-[YouTube Video for User Interface on Terminal](https://youtu.be/2Pru6Y3MMGk)
+<img src='./images/rescueAlerts logo.png'
+      alt='RescueAlerts Application Logo'
+      height=150>
+      
+- [Youtube video for GUI (Graphical User Interface) using Java Swing](https://youtu.be/wFQNVDnZ9A0)
+- [YouTube video for user interface on terminal](https://youtu.be/2Pru6Y3MMGk)
 
 This app was inspired by a deficit I saw in the disaster rescue responses of 
 different areas in the Philippines. Last 2019, when **Typhoons Ulysses and Rolly (a.k.a. Typhoons 
@@ -35,17 +39,19 @@ in need of rescue and other people with the proper resources can help.
 - As a user, I want to be able to see a list of the rescue alerts posted on the app 
   with their *respective statuses and locations.
 - As a user, I want to be able to select a rescue alert and view it in detail.
-- As a user, I want to be able to respond to a posted rescue alert and change its status.
 - As a user, I want to be able to load already-posted rescue alerts from file.
 - As a user, I want to be able to save my updated rescue alerts to file.
-- As a user, I want to be reminded to save to file and have the option to do so before I quit the application.
+- As a user, I want to be able to respond to a posted rescue alert and change its status. ^
+- As a user, I want to be reminded to save to file and have the option to do so before I quit the application. ^
 
 > *respective statuses include:
 > 1. 🔴 NEED HELP
 > 2. 🟡 HELP ON THE WAY
 > 3. 🟢 RESCUED
 
-## Phase 4: Task 2
+> ^ these user stories were implemented in terminal UI, but not in Java Swing-based GUI
+
+## Integrating an OOP Principle: Robustness
 I chose to implement two robust classes: Alert and RescueAlerts.
 
 In **_Alert_**, two methods throw checked exceptions: the Alert constructor and getNextStatus().
@@ -58,7 +64,7 @@ In **_RescueAlerts_**, one method throws a checked exception: getAlertById(int).
   of RescueAlerts matches the given argument (i.e. the Alert matching the given id code cannot be found).
 
 
-## Phase 4: Task 3
+## Areas of Improvement
 - If I had more time to work on my project, I would have added the functionality of responding to an alert
   to my GUI. I also would have implemented my other user story where users
   are reminded to save before quitting the application.
@@ -68,3 +74,8 @@ In **_RescueAlerts_**, one method throws a checked exception: getAlertById(int).
   store them in a Hashmap, where the 'key' is the idCode and the 'value' is the actual Alert object.
   This would make it easier to find and access a specific alert from a list,
   especially when using a method such as getAlertById(int).
+  
+
+## UML Design Diagram of RescueAlerts Interfaces & Classes
+<img src='UML_Design_Diagram.jpg'
+      alt='UML Design Diagram of Classes'>
