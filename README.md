@@ -6,7 +6,7 @@
       alt='RescueAlerts Application Logo'
       height=150>
       
-- [RescueAlerts GUI Intro Demo](https://youtu.be/C2gVOZ__9Wo)
+- [RescueAlerts GUI Intro + Demo](https://youtu.be/C2gVOZ__9Wo)
 - [RescueAlerts Terminal UI Demo](https://youtu.be/2Pru6Y3MMGk)
 
 This app was inspired by a deficit I saw in the disaster rescue responses of 
