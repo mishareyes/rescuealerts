@@ -6,7 +6,7 @@
       alt='RescueAlerts Application Logo'
       height=150>
       
-- [Youtube video for GUI (Graphical User Interface) using Java Swing](https://youtu.be/wFQNVDnZ9A0)
+- (RescueAlerts GUI Demo)[https://youtu.be/C2gVOZ__9Wo]
 - [YouTube video for user interface on terminal](https://youtu.be/2Pru6Y3MMGk)
 
 This app was inspired by a deficit I saw in the disaster rescue responses of 
