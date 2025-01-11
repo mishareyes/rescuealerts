@@ -6,8 +6,8 @@
       alt='RescueAlerts Application Logo'
       height=150>
       
-- [RescueAlerts GUI Demo](https://youtu.be/C2gVOZ__9Wo)
-- [YouTube video for user interface on terminal](https://youtu.be/2Pru6Y3MMGk)
+- [RescueAlerts GUI Intro Demo](https://youtu.be/C2gVOZ__9Wo)
+- [RescueAlerts Terminal Demo](https://youtu.be/2Pru6Y3MMGk)
 
 This app was inspired by a deficit I saw in the disaster rescue responses of 
 different areas in the Philippines. Last 2019, when **Typhoons Ulysses and Rolly (a.k.a. Typhoons 
